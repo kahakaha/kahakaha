@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on make some games.
+- 🌱 I’m currently learning ML.
+- 👯 I’m looking to collaborate on sports.
+- 🤔 I’m looking for help with living a happy life.
+- ⚡ Fun fact: I am a man.
