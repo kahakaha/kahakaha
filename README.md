@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on make some games.
-- 🌱 I’m currently learning ML.
+- 🌱 I’m currently learning Rust🦀.
 - 👯 I’m looking to collaborate on sports.
 - 🤔 I’m looking for help with living a happy life.
-- ⚡ Fun fact: I am a man.
+- 💬 There are a lot of thing I want to do. You can watch my progress in [there](https://github.com/kahakaha/todo-list).
