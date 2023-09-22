@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust🦀.
 - 👯 I’m looking to collaborate on sports.
 - 🤔 I’m looking for help with living a happy life.
-- 💬 There are a lot of thing I want to do. You can watch my progress in [there](https://github.com/kahakaha/todo-list).
+- 💬 There are a lot of things I want to do. You can watch my progress in [there](https://github.com/kahakaha/todo-list).
